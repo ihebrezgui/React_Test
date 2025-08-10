@@ -1,5 +1,5 @@
 [build]
-  publish = "dist" # ou "build" selon ton projet
+  publish = "dist" 
   command = "npm run build"
 
 [[redirects]]
