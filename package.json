@@ -20,9 +20,7 @@
     "tailwind:init": "tailwindcss init -p",
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-  
-
+    "preview": "vite preview"
   },
   "eslintConfig": {
     "extends": [
